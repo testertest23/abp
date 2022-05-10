@@ -10,6 +10,7 @@ ABP Framework was designed to support to build fully modular applications and sy
 * [Module startup template](Startup-Templates/Module.md) is a jump start way to **create a new module**.
 * [ABP CLI](CLI.md) has commands to support modular development.
 * All other framework features are compatible to the modularity system.
+* Hello ABP Community!!
 
 ## Module Class
 
